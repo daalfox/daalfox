@@ -17,7 +17,7 @@ TUMS(Tehran University of Medical Science).
 - Title: Full-Stack developer
 - Duration: Jan 2022 - Present
 - Languages: SQL, TypeScript
-- Stack: SQL server, Express, Vue
+- Stack: SQL server, Express, Redis, Vue
 
 #### Pizza Shop
 
@@ -29,7 +29,9 @@ Personal side project which is a general online menu for any Pizza shop.
 
 ## What I'm very good at
 
-Rust, TypeScript, Express, Vuejs, Solidjs
+Languages: Rust, TypeScript
+Front-end: Solid.js, Vue.js
+Back-end: Axum, Express.js, PostgreSQL
 
 ## More about me
 
