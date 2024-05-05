@@ -29,8 +29,8 @@ Personal side project which is a general online menu for any Pizza shop.
 
 ## What I'm very good at
 
-Languages: Rust, TypeScript
-Front-end: Solid.js, Vue.js
+Languages: Rust, TypeScript\
+Front-end: Solid.js, Vue.js\
 Back-end: Axum, Express.js, PostgreSQL
 
 ## More about me
